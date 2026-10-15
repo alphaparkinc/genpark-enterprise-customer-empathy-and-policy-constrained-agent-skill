@@ -1,0 +1,8 @@
+{
+  "name": "genpark-enterprise-customer-empathy-and-policy-constrained-agent-skill",
+  "version": "1.0.0",
+  "description": "Deterministic policy boundary enforcement, customer empathy scoring, and authenticated action verifier for enterprise customer service agents",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
